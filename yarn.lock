@@ -7238,6 +7238,8 @@ postcss-focus-within@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/postcss-focus-within/-/postcss-focus-within-3.0.0.tgz#763b8788596cee9b874c999201cdde80659ef680"
   integrity sha512-W0APui8jQeBKbCGZudW37EeMCjDeVxKgiYfIIEo8Bdh5SpB9sxds/Iq8SEuzS0Q4YFOlG7EPFulbbxujpkrV2w==
+  dependencies:
+    postcss "^7.0.2"
 
 postcss-font-variant@^4.0.0:
   version "4.0.0"
@@ -7994,6 +7996,11 @@ react-is@^16.8.1, react-is@^16.8.4:
   version "16.8.6"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
+
+react-optimize@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/react-optimize/-/react-optimize-2.4.0.tgz#fcea0af3927223334dde256e18927f911ca227c8"
+  integrity sha512-QK+z8wwOGKUVk6zC2q6l2H67V/bgMleCdm+xpefWQu9F5363LX0nh0ZGcewE8miUWF1xk5U1jWWKjhiVv8lb7g==
 
 react-scripts@^3.0.1:
   version "3.0.1"
