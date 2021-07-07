@@ -14,10 +14,10 @@ function App() {
   return (
     <div>
       <button onClick={handleOriginal}>Original</button>
-      <div style={{ color: red }}>Ai apasat de {number} ori;</div>
+      <div style={{ color: "red" }}>Ai apasat de {number} ori;</div>
 
       <button onClick={handleVariant}>Variant 1</button>
-      <div style={{ color: green }}>Ai apasat de {number} ori;</div>
+      <div style={{ color: "green" }}>Ai apasat de {number} ori;</div>
     </div>
   );
 }
