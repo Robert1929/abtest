@@ -14,9 +14,9 @@ function App() {
   return (
     <div>
       <button style={{ color: "red" }} onClick={handleOriginal}>
-        Original
+        Add
       </button>
-      <button style={{ color: "red" }} onClick={handleVariant}>Variant 1</button>
+      <button style={{ color: "green" }} onClick={handleVariant}>Remove</button>
       <div>Ai apasat de {number} ori;</div>
     </div>
   );
