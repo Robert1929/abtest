@@ -12,7 +12,7 @@ function App() {
     setNumber(number - 1);
   };
   return (
-    <div>
+    <div className="fade-in-image">
       <button style={{ color: "red" }} onClick={handleOriginal}>
         Add
       </button>
